@@ -1,6 +1,7 @@
 ---
 title: Contatti
 sidebar: false
+include_footer: true
 ---
 
 Per qualsiasi domanda non esitare a contattarci via email: 
