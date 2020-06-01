@@ -1,0 +1,160 @@
+baseURL: http://something-fresh.org/
+languageCode: it-IT
+title: Aiutamo Cumbuco
+theme: hugo-fresh
+googleAnalytics: # Put in your tracking code without quotes like this: UA-XXXXXX...
+# Disables warnings
+disableKinds:
+- taxonomy
+- taxonomyTerm
+markup:
+  goldmark:
+    renderer:
+      unsafe: true # Allows you to write raw html in your md files
+
+params:
+  # Open graph allows easy social sharing. If you don't want it you can set it to false or just delete the variable
+  openGraph: true
+  # Used as meta data; describe your site to make Google Bots happy 
+  description: 
+  navbarlogo:
+  # Logo (from static/images/logos/___)
+    image: logos/logo-ac.svg
+    link: /
+  font:
+    name: "Open Sans"
+    sizes: [400,600]
+  hero:
+    # Main hero title
+    title: Aiutamo Cumbuco
+    # Hero subtitle (optional)
+    subtitle: Il Corona Virus sta colpendo le famiglie più bisognose di Cumbuco. Aiutiamole con una donazione di alimenti.
+    # Button text
+    buttontext: Fai una Donazione
+    # Where the main hero button links to
+    buttonlink: /donazione
+    # Hero image (from static/images/___)
+    image: illustrations/mongolfiera.svg
+    # Footer logos (from static/images/logos/clients/___.svg)
+    clientlogos:
+    - systek
+    - tribe
+    - kromo
+    - infinite
+    - gutwork
+  # Customizable navbar. For a dropdown, add a "sublinks" list.
+  navbar:
+  - title: Chi Siamo
+    url: /chi-siamo
+  - title: Contatti
+    url: /contatti
+  - title: Donazione
+    url: /donazione
+    button: true
+  # section1:
+  #   title: Una cesta di alimenti
+  #   subtitle: per aiutare una famiglia in difficoltà
+  #   tiles:
+  #   - title: Riso e Pasta
+  #     icon: mouse-globe
+  #     text: accompagnato da sughi di pomodoro
+  #     url: /
+  #     buttonText: Dona
+  #   - title: Fagioli
+  #     icon: laptop-cloud
+  #     text: fagiolini, neri e tipo Carioca
+  #     url: /
+  #     buttonText: Dona
+  #   - title: Farina
+  #     icon: plug-cloud
+  #     text: Farina di vario tipo 
+  #     url: /
+  #     buttonText: Dona
+  section2:
+    title: Una cesta di alimenti
+    subtitle: per aiutare una famiglia in difficoltà
+    features:
+    - title: Cumbuco
+      text: Un piccolo vilaggio di pescatori nella Caucaia, una delle regioni più povere del Brasile. Il turismo è da anni l'unica fonte di reddito per molte famiglie. A causa del Covid-19, i turisti non posso più visitare queste spiaggie. Hotel, ristoranti e centri turistici hanno licenziato in massa il personale, composto proprio dalle famiglie che vogliamo aiutare.
+      # Icon (from /images/illustrations/icons/___.svg)
+      icon: pin
+    - title: Cesto Base
+      text: In portoghese si chiama "Cesta Basica". Non è altro che una scatola contenente alimenti di prima necessità come riso, pasta, fagioli, latte, farina e biscotti. Viene spesso usata come dono per le persone più bisognose. Aiuta una famiglia di 4-5 persone per una settimana.
+      icon: mani
+    - title: Quanto costa?
+      text: Un cesto costa 32 Reali. Grazie alla conversione BRL/EUR, 32 Reali sono equivalenti a soli 6 Euro. Praticamente il prezzo di uno cappuccino con cornetto, può aiutare famiglia in difficoltà per una settimana. 
+      icon: mela
+  section3:
+    title: Un gesto di umanità
+    subtitle: che renderà felice una famiglia povera
+    image: illustrations/photos/bimba.jpg
+    buttonText: Fai una Donazione
+    buttonLink: /donazione
+  section4:
+    title: Chi ha già donato è a conoscenza della nostra realtà
+    subtitle: La fondazione 'Ajuda Cumbuco', capitanata dal Medico di base Adriano Antunes aiuta famiglie in difficoltà da anni.
+    clients:
+    - name: Primo B
+      quote: Mi sono sentito veramente bene sapendo che con la mia donazione, ho potuto aiutare un paio di famiglie Brasiliane. 
+      job: Pensionato
+      img: 3
+    - name: Annalisa T
+      quote: Il dottor Adriano e la sua squadra sono formidabili e molto coraggiosi. Ho visto i video e le foto e mi sono emozionata nel vedere i bambini sorridenti mentre ricevevano gli alimenti.
+      job: Casalinga
+      img: 1
+    - name: Matteo B
+      quote: La sensazione di poter aiutare qualcuno in difficoltà è appagante. L'organizzazione è trasparente al 100% e ho potuto vedere ogni spesa e azione che hanno compiuto.
+      job: Ingegnere
+      img: 2
+  section5: false
+  footer:
+    # Logo (from /images/logos/___)
+    logo: fresh-white-alt.svg
+    # Social Media Title
+    socialmediatitle: Follow Us
+    # Social media links (GitHub, Twitter, etc.). All are optional.
+    socialmedia:
+    - link: https://github.com/lucperkins/github-fresh
+      # Icons are from Font Awesome
+      icon: github
+    - link: https://dribbble.com/#
+      icon: dribbble
+    - link: https://facebook.com/#
+      icon: facebook
+    - link: https://twitter.com/lucperkins
+      icon: twitter
+    - link: https://bitbucket.org/#
+      icon: bitbucket
+    bulmalogo: true
+    quicklinks:
+      column1:
+        title: "Product"
+        links:
+        - text: Discover features
+          link: /
+        - text: Why choose our product?
+          link: /
+        - text: Compare features
+          link: /
+        - text: Our roadmap
+          link: /
+        - text: AGB
+          link: /agb
+      column2:
+        title: "Docs"
+        links:
+        - text: Get started
+          link: /
+        - text: User guides
+          link: /
+        - text: Admin guide
+          link: /
+        - text: Developers
+          link: /
+      column3:
+        title: "Blog"
+        links:
+        - text: Latest news
+          link: /blog/first
+        - text: Tech articles
+          link: /blog/second
