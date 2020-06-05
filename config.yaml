@@ -16,7 +16,7 @@ params:
   # Open graph allows easy social sharing. If you don't want it you can set it to false or just delete the variable
   openGraph: true
   # Used as meta data; describe your site to make Google Bots happy 
-  description: Dona una cesta di alimenti ad un famiglia bisognosa in Cumbuco (Brasile) affetto gravemente dal Covid-19.
+  description: Dona una cesta di alimenti ad un famiglia bisognosa in Cumbuco (Brasile), un villaggio di pescatori affetto gravemente dal Covid-19.
   navbarlogo:
   # Logo (from static/images/logos/___)
     image: logos/logo-ac.svg
