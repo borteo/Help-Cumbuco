@@ -32,12 +32,11 @@ include_footer: true
       </div>
       <div class="column is-5 landing-caption">
         <p>Aiutiamo Cumbuco, in portoghese Ajuda Cumbuco, è <strong>un'organizzazione no-profit</strong> che lavora da anni nel terriorio della Caucaia.
-          Aiuta famiglie in difficoltà con donazioni e aiuti alimentari. E giovani, introducendoli al mondo dello sport e dell'atletica offrendo un futuro alternativo alla vita 
-          di strada.
+          Aiuta famiglie in difficoltà con donazioni e aiuti alimentari. 
+          Giovani atleti, introducendoli al mondo dello sport e dell triathlon offrendo un futuro alternativo alla vita di strada.
         </p>
         <p>
-          Aiutiamo Cumbuco è capitanata dal Dottor Adriano Antunes e seguita da molti volontari di diverse nazionalità provenienti da Italia, Olanda e
-          Germania.
+          Ajuda Cumbuco è capitanata dal <strong>Dottor Adriano Antunes</strong> e seguita da molti volontari di diverse nazionalità provenienti da Italia, Olanda e Germania.
         </p>
         <p>
           Per ogni donazione ricevuta, l'organizzazione si prefigge una totale trasparenza, mostrando nei canali di Instagram e Facebook ogni donazione ricevuta,
