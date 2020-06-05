@@ -32,12 +32,12 @@ params:
     # Button text
     buttontext: Fai una Donazione
     # Where the main hero button links to
-    buttonlink: /donazione
+    buttonlink: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QHSANJJGWKRVA&source=url
     # Hero image (from static/images/___)
     image: illustrations/mongolfiera.svg
     # Footer logos (from static/images/logos/clients/___.svg)
     clientlogos:
-    - systek
+    - borgsoft.netlify.com
     - tribe
     - kromo
     - infinite
@@ -49,7 +49,7 @@ params:
   - title: Contatti
     url: /contatti
   - title: Donazione
-    url: /donazione
+    url: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QHSANJJGWKRVA&source=url
     button: true
   # section1:
   #   title: Una cesta di alimenti
@@ -89,7 +89,7 @@ params:
     subtitle: che renderà felice una famiglia povera
     image: illustrations/photos/bimba.jpg
     buttonText: Fai una Donazione
-    buttonLink: /donazione
+    buttonLink: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QHSANJJGWKRVA&source=url
   section4:
     title: Chi ha già donato è a conoscenza della nostra realtà
     subtitle: La fondazione 'Ajuda Cumbuco', capitanata dal Medico di base Adriano Antunes aiuta famiglie in difficoltà da anni.
@@ -109,52 +109,47 @@ params:
   section5: false
   footer:
     # Logo (from /images/logos/___)
-    logo: fresh-white-alt.svg
+    logo: logo-ac.svg
     # Social Media Title
-    socialmediatitle: Follow Us
+    socialmediatitle: Seguici
     # Social media links (GitHub, Twitter, etc.). All are optional.
     socialmedia:
-    - link: https://github.com/lucperkins/github-fresh
-      # Icons are from Font Awesome
+    - link: https://github.com/borteo/aiutiamo-cumbuco
       icon: github
-    - link: https://dribbble.com/#
-      icon: dribbble
-    - link: https://facebook.com/#
+    # - link: https://dribbble.com/#
+    #   icon: dribbble
+    - link: https://www.facebook.com/AiDmedicina/?hc_ref=ARS9JCU3eZEqbfniUW56RMN_WTAtqy71-1MmE93qJ2Gl__NLoXYjEes35A10zXjZUfE&ref=nf_target&__tn__=kC-R
       icon: facebook
-    - link: https://twitter.com/lucperkins
-      icon: twitter
-    - link: https://bitbucket.org/#
-      icon: bitbucket
+    # - link: https://twitter.com/lucperkins
+    #   icon: twitter
+    # - link: https://bitbucket.org/#
+    #   icon: bitbucket
     bulmalogo: true
     quicklinks:
-      column1:
-        title: "Product"
-        links:
-        - text: Discover features
-          link: /
-        - text: Why choose our product?
-          link: /
-        - text: Compare features
-          link: /
-        - text: Our roadmap
-          link: /
-        - text: AGB
-          link: /agb
+      # column1:
+      #   title: "Product"
+      #   links:
+      #   - text: Discover features
+      #     link: /
+      #   - text: Why choose our product?
+      #     link: /
+      #   - text: Compare features
+      #     link: /
+      #   - text: Our roadmap
+      #     link: /
+      #   - text: AGB
+      #     link: /agb
       column2:
-        title: "Docs"
+        title: "Navigazione"
         links:
-        - text: Get started
-          link: /
-        - text: User guides
-          link: /
-        - text: Admin guide
-          link: /
-        - text: Developers
-          link: /
-      column3:
-        title: "Blog"
-        links:
-        - text: Latest news
-          link: /blog/first
-        - text: Tech articles
-          link: /blog/second
+        - text: Chi siamo
+          link: /chi-siamo
+        - text: Contatti
+          link: /contatti
+      # column3:
+      #   title: "Blog"
+      #   links:
+      #   - text: Latest news
+      #     link: /blog/first
+      #   - text: Tech articles
+      #     link: /blog/second
