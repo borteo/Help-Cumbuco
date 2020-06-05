@@ -2,7 +2,7 @@ baseURL: https://aiutiamo-cumbuco.com/
 languageCode: it-IT
 title: Aiutamo Cumbuco
 theme: hugo-fresh
-googleAnalytics: # Put in your tracking code without quotes like this: UA-XXXXXX...
+googleAnalytics: UA-168656126-1
 # Disables warnings
 disableKinds:
 - taxonomy
