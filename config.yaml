@@ -21,7 +21,7 @@ params:
     - images/logos/logo-ac.svg
   navbarlogo:
   # Logo (from static/images/logos/___)
-    image: logos/logo-ac.svg
+    image: logos/logo-ac.png
     link:  https://aiutiamo-cumbuco.com
   font:
     name: "Open Sans"
