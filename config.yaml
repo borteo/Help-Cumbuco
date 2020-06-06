@@ -17,10 +17,12 @@ params:
   openGraph: true
   # Used as meta data; describe your site to make Google Bots happy 
   description: Dona una cesta di alimenti ad un famiglia bisognosa in Cumbuco (Brasile), un villaggio di pescatori affetto gravemente dal Covid-19.
+  images:
+    - images/logos/logo-ac.svg
   navbarlogo:
   # Logo (from static/images/logos/___)
     image: logos/logo-ac.svg
-    link: /
+    link:  https://aiutiamo-cumbuco.com
   font:
     name: "Open Sans"
     sizes: [400,600]
@@ -31,6 +33,7 @@ params:
     subtitle: Il Corona Virus sta colpendo le famiglie più bisognose di Cumbuco. Aiutiamole con una donazione di alimenti.
     # Button text
     buttontext: Fai una Donazione
+    # donation: donazioni raccolte 225€
     # Where the main hero button links to
     buttonlink: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QHSANJJGWKRVA&source=url
     # Hero image (from static/images/___)

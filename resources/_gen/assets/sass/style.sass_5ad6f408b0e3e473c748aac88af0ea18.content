@@ -6153,6 +6153,23 @@ label.panel-block {
   flex-shrink: 0;
   padding: 3rem 1.5rem; }
 
+.floating-ballon {
+  position: relative;
+  top: 0;
+  transform: rotate(0deg);
+  animation: float 6s ease-in-out infinite; }
+
+@keyframes float {
+  0% {
+    top: 0px;
+    transform: rotate(0deg); }
+  50% {
+    top: -20px;
+    transform: rotate(2deg); }
+  100% {
+    top: 0;
+    transform: rotate(0deg); } }
+
 .section {
   padding: 3rem 1.5rem; }
   @media screen and (min-width: 1088px) {
