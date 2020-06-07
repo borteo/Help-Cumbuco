@@ -14,7 +14,7 @@ include_footer: true
         </figure>
       </div>
       <div class="column is-5 landing-caption">
-        <p>Aiutiamo Cumbuco, in portoghese Ajuda Cumbuco, è <strong>un'organizzazione no-profit</strong> che lavora da anni nel terriorio della Caucaia.
+        <p>Aiutiamo Cumbuco, in portoghese Ajuda Cumbuco, è <strong>un'organizzazione no-profit</strong> che lavora da anni nel territorio della Caucaia.
           Aiuta famiglie in difficoltà con donazioni e aiuti alimentari. 
           Giovani atleti, introducendoli al mondo dello sport e dell triathlon offrendo un futuro alternativo alla vita di strada.
         </p>
