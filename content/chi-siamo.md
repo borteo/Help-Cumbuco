@@ -15,17 +15,19 @@ include_footer: true
       </div>
       <div class="column is-5 landing-caption">
         <p>Aiutiamo Cumbuco, in portoghese Ajuda Cumbuco, è <strong>un'organizzazione no-profit</strong> che lavora da anni nel territorio della Caucaia.
-          Aiuta famiglie in difficoltà con donazioni e aiuti alimentari. 
-          Giovani atleti, introducendoli al mondo dello sport e dell triathlon offrendo un futuro alternativo alla vita di strada.
+          Aiuta famiglie in difficoltà con donazioni e aiuti alimentari;<br/>
+          e giovani atleti, introducendoli al mondo dello sport e del triathlon offrendo un futuro alternativo alla vita di strada.
         </p>
         <p>
-          Ajuda Cumbuco è capitanata dal <strong>Dottor Adriano Antunes</strong> e seguita da molti volontari di diverse nazionalità provenienti da Italia, Olanda e Germania.
+          Ajuda Cumbuco è capitanata dal <strong>Dott. Adriano Antunes</strong> e seguita da molti volontari di diverse nazionalità provenienti da Italia, Olanda e Germania.
         </p>
         <p>
-          Per ogni donazione ricevuta, l'organizzazione si prefigge una totale trasparenza, mostrando nei canali di Instagram e Facebook ogni donazione ricevuta,
-          spesa effettuata e documentando con foto e video ogni occasione di incontro tra le famiglie bisognose e i volontari dell'organizzazione.
+          Per ogni donazione ricevuta, l'organizzazione si prefigge una totale trasparenza, mostrando nei canali di Instagram e Facebook ogni azione umanitaria,
+          spesa effettuata e documentando con foto e video ogni occasione di incontro tra le famiglie bisognose e i volontari.
+        </p>
+        <h3>
           La nostra missione è promuovere un futuro migliore a chi ha meno opportunità e fortuna di noi.
-        </p>
+        </h3>
         <p>
           Purtroppo ci sono moltissime persone in Cumbuco, costrette a lavorare per ristoranti, hotel, ostelli e tour turistici con contratti proibitivi.
           Senza alcuna garanzia (contratti a chiamata), diritto e con retribuzioni bassissime.
@@ -37,6 +39,7 @@ include_footer: true
         </p>
         <p>
           La povertà porta a degrado, il quale conduce a uso di droga, alcool e al maltrattamento dei figli e violenze verso i partner.
+          Fino ad arrivare a reati anche molto più gravi come rapine a mano armata, uccisioni tra clan rivali e traffico di droga e armi.
         </p>
         <p>
           Aiutiamo Cumbuco a uscire da questo circolo vizioso e a regalare un sorriso ai bimbi di questo bellissimo villaggio di pescatori.
