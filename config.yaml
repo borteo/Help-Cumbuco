@@ -47,6 +47,8 @@ params:
     - gutwork
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
+  - title: Missione
+    url: /missione
   - title: Chi Siamo
     url: /chi-siamo
   - title: Contatti
@@ -145,6 +147,8 @@ params:
       column2:
         title: "Navigazione"
         links:
+        - text: Missione
+          link: /missione
         - text: Chi siamo
           link: /chi-siamo
         - text: Contatti
