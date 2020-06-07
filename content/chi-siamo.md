@@ -30,15 +30,16 @@ include_footer: true
         </h3>
         <p>
           Purtroppo ci sono moltissime persone in Cumbuco, costrette a lavorare per ristoranti, hotel, ostelli e tour turistici con contratti proibitivi.
-          Senza alcuna garanzia (contratti a chiamata), diritto e con retribuzioni bassissime.
-          Infatti, la retribuzione minima in Brasile è di soli 1.035 Reali, equivalienti a 178 Euro.
+          Senza alcuna garanzia (contratti a chiamata) e con retribuzioni bassissime.
+          La retribuzione minima in Brasile è di soli 1.035 Reali, equivalienti a 178 Euro.
         </p>
         <p>
           La vita in questi luoghi è sicuramente meno costosa, ma vivere con meno di 200 Euro al mese è molto difficile anche in Brasile.
-          Adesso che il turismo è totalmente assente, tutte queste famiglie si trovano senza cibo in casa e senza un lavoro.
+          Adesso che il turismo è totalmente assente, tutte queste famiglie si trovano senza senza un lavoro, senza soldi perché molti non hanno neanche un
+          conto bancario e quindi senza cibo in casa.
         </p>
         <p>
-          La povertà porta a degrado, il quale conduce a uso di droga, alcool e al maltrattamento dei figli e violenze verso i partner.
+          La povertà porta a degrado, il quale conduce a uso di droghe, alcool e al violenze verso i figli e partner.
           Fino ad arrivare a reati anche molto più gravi come rapine a mano armata, uccisioni tra clan rivali e traffico di droga e armi.
         </p>
         <p>

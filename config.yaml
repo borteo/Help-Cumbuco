@@ -21,7 +21,7 @@ params:
     - images/logos/logo-ac.svg
   navbarlogo:
   # Logo (from static/images/logos/___)
-    image: logos/logo-ac.png
+    image: logos/logo-ac.svg
     link:  https://aiutiamo-cumbuco.com
   font:
     name: "Open Sans"
@@ -117,16 +117,16 @@ params:
     socialmediatitle: Seguici
     # Social media links (GitHub, Twitter, etc.). All are optional.
     socialmedia:
-    - link: https://github.com/borteo/aiutiamo-cumbuco
-      icon: github
+    # - link: https://github.com/borteo/aiutiamo-cumbuco
+    #   icon: github
     # - link: https://dribbble.com/#
     #   icon: dribbble
-    - link: https://www.facebook.com/AiDmedicina/?hc_ref=ARS9JCU3eZEqbfniUW56RMN_WTAtqy71-1MmE93qJ2Gl__NLoXYjEes35A10zXjZUfE&ref=nf_target&__tn__=kC-R
+    - link: https://www.facebook.com/Aiutiamo-Cumbuco-102886201464085
       icon: facebook
-    # - link: https://twitter.com/lucperkins
-    #   icon: twitter
-    # - link: https://bitbucket.org/#
-    #   icon: bitbucket
+    - link: https://twitter.com/ACumbuco
+      icon: twitter
+    - link: https://www.instagram.com/aiutiamocumbuco/
+      icon: instagram
     bulmalogo: true
     quicklinks:
       # column1:
