@@ -19,7 +19,7 @@ include_footer: true
         conto bancario e quindi senza cibo in casa.
       </p>
       <p>
-        La povertà porta a degrado, il quale conduce a uso di droghe, alcool e al violenze verso i figli e partner.
+        La povertà porta a degrado, il quale conduce a uso di droghe, alcool e a violenze verso i figli e partner.
         Fino ad arrivare a reati anche molto più gravi come rapine a mano armata, uccisioni tra clan rivali e traffico di droga e armi.
       </p>
       <h3>
