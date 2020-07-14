@@ -10,7 +10,7 @@ include_footer: true
   <div class="columns">
     <div class="column is-5">
       <figure class="image">
-        <img src="https://scontent.ffor18-1.fna.fbcdn.net/v/t1.0-9/53861060_2028245213898116_8639698127495888896_n.jpg?_nc_cat=103&_nc_sid=09cbfe&_nc_ohc=47XKsH2XlNUAX-3hBSA&_nc_ht=scontent.ffor18-1.fna&oh=5ae4e91d93d73a31ca8ff6b077c07538&oe=5EF91FA1" alt="dottor Adriano">
+        <img src="/images/illustrations/adriano.png" alt="dott Adriano">
       </figure>
     </div>
     <div class="column is-5 landing-caption">
